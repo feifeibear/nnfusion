@@ -1,6 +1,6 @@
 # Get Started Tutorial: Compile a TensorFlow LSTM model with NNFusion (Rammer) 
 
-We assume you already build and install NNFusion compiler folloing the *Environment Preparation* section in [README.md](../README.md).
+We assume you already build and install NNFusion compiler following the *Environment Preparation* section in [README.md](../README.md).
 
 The goal of this tutorial is to demonstrate how to compile and optimize a typical DNN model, and showcase the performance improvement with Rammer compiler.
 
